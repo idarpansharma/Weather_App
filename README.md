@@ -6,7 +6,7 @@ Welcome to the Weather App repository! This project is a web application that pr
 
 - **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide.
 - **Explore Section**: You Can See Many Random City Weather On Explore Section
-- **Add More Cities**: You Can Add More Cities
+- **Add More Cities**: You Can Add or remove More Cities
 
 ### Technologies Used 
 
